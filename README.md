@@ -1,1 +1,1 @@
-#Application pour apprentissage de Git#
+# Application pour apprentissage de Git #
